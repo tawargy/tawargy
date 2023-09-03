@@ -5,7 +5,7 @@
 	<br>
 	<br>
 	<br>
-  <img  src="https://giphy.com/gifs/code-AOSwwqVjNZlDO" width="150" />
+  <img  src="https://www.nyan.cat/cats/balloon.gif" width="150" />
   <br>
 <br>
 <br>
